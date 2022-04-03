@@ -1,8 +1,8 @@
 
 
-#whoami
+- #whoami
 
-Name: C0zturk
+- Name: C0zturk
 Address: 127.0.0.1
 Occupation: Security Engineer
 Currently Learning: Pen Testing, Python & C#, Palo Alto Firewalls.
