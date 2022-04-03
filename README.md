@@ -1,5 +1,3 @@
-Microsoft Windows [Version 10.0.19044.1620]
-(c) Microsoft Corporation. All rights reserved.
 
 - C:\Users\C0zturk>whoami
 
