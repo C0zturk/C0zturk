@@ -1,6 +1,6 @@
 
 
-- #whoami
+- C:\Users\C0zturk>whoami
 
  - Name: C0zturk
  - Address: 127.0.0.1
