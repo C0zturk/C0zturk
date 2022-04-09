@@ -4,7 +4,7 @@
  - Name: C0zturk
  - Address: 127.0.0.1
  - Occupation: Security Engineer
- - Currently Learning: Pen Testing, Python & C#, Palo Alto Firewalls.
+ - Currently Learning: Pen Testing, Python & C#, Palo Alto Firewalls & Network Security.
 
 <!--
 **C0zturk/C0zturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
