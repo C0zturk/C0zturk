@@ -4,7 +4,7 @@
  - Name: C0zturk
  - Occupation: Security Engineer
 
-Hi, my name is Cag but you can call me C0z.  I am cyber security engineer with interests in Pen Testing, Programming & Network Security.  This is where I document my personal endeavours related to offsec.  
+Hi, my name is Cag but you can call me C0z.  I am cyber security engineer with interests in Pen Testing, Programming & Network Security.  This is where I document my personal endeavours..  
 
 
 I am currently learning:
