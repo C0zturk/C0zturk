@@ -7,7 +7,7 @@
 Hi, my name is Cag but you can call me C0z.  I am cyber security engineer with interests in Pen Testing, Programming & Network Security.  This is where I document my personal endeavours related to offsec.  
 
 
-What I am currently doing:
+I am currently learning:
 
 [Try Hack Me](https://tryhackme.com/profile) - My Endeavours on Try Hack Me
 
