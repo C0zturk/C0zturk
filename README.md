@@ -13,7 +13,7 @@ What I am currently doing:
 
 [Hack The Box](https://app.hackthebox.com/profile/overview) - My Endeavours on Hack The Box.
 
-print(" Actively Learning Python & C#! \n I enjoy automation and programming and I believe upskilling in this will make me a better sec engineer.  ")
+Programming - Actively Learning Python & C#.  I enjoy automation/programming and I believe upskilling in this will make me a better sec engineer.
 
 Networking - I have 2 years of experience in networking where I progressed from Help Desk related roles in MS.  I have acquired my CCNA in 09, 2021.
 
