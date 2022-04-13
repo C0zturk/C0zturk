@@ -9,7 +9,7 @@ Hi, my name is Cag but you can call me C0z.  I am cyber security engineer with i
 
 I am currently learning:
 
-[Try Hack Me](https://tryhackme.com/profile) - My Endeavours on Try Hack Me
+[Try Hack Me](https://tryhackme.com/profile) - My Endeavours on Try Hack Me.
 
 [Hack The Box](https://app.hackthebox.com/profile/overview) - My Endeavours on Hack The Box.
 
