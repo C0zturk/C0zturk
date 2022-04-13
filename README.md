@@ -13,7 +13,7 @@ I am currently learning:
 
 [Hack The Box](https://app.hackthebox.com/profile/overview) - My Endeavours on Hack The Box.
 
-Programming - Actively Learning Python & C#.  I enjoy automation/programming and I believe upskilling in this will make me a better sec engineer.
+[Programming](https://github.com/C0zturk/Programming) - Actively Learning Python & C#.  I enjoy automation/programming and I believe upskilling in this will make me a better sec engineer.
 
 Networking - I have 2 years of experience in networking where I progressed from Help Desk related roles in MS.  I completed my CCNA in September 2021.
 
