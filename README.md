@@ -15,9 +15,9 @@ I am currently learning:
 
 Programming - Actively Learning Python & C#.  I enjoy automation/programming and I believe upskilling in this will make me a better sec engineer.
 
-Networking - I have 2 years of experience in networking where I progressed from Help Desk related roles in MS.  I have acquired my CCNA in 09, 2021.
+Networking - I have 2 years of experience in networking where I progressed from Help Desk related roles in MS.  I completed my CCNA in September 2021.
 
-Palo Alto Firewalls - I have a deep interest in firewalls and 1 of my current engagements is upskilling with PA NGFW's and earning the PCNSA.
+Palo Alto Firewalls - I enjoy working with firewalls and 1 of my current engagements is upskilling with PA NGFW's and acquiring the PCNSA cert.
 
 
 
