@@ -9,15 +9,19 @@ Hi, my name is Cag but you can call me C0z.  I am cyber security engineer with i
 
 I am currently learning:
 
-[Try Hack Me](https://tryhackme.com/profile) - My Endeavours on Try Hack Me.
+[Try Hack Me](https://tryhackme.com/profile)
 
-[Hack The Box](https://app.hackthebox.com/profile/overview) - My Endeavours on Hack The Box.
+[Hack The Box](https://app.hackthebox.com/profile/overview)
 
-[Programming](https://github.com/C0zturk/Programming) - Actively Learning Python & C#.  I enjoy automation/programming and I believe upskilling in this will make me a better sec engineer.
+[Programming](https://github.com/C0zturk/Programming)
 
-Networking - I have 2 years of experience in networking where I progressed from Help Desk related roles in MS.  I completed my CCNA in September 2021.
+Areas of Interest:
+
+Network Security - I have 3 years of experience and MS in networking.  I completed my CCNA in September 2021.
 
 Palo Alto Firewalls - I enjoy working with firewalls and 1 of my current engagements is upskilling with PA NGFW's and acquiring the PCNSA cert.
+
+TCM PNPT - Along with my work commitments of learning Palo Alto NGFW, I am currently studying for my TCM PNPT.
 
 
 
